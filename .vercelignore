@@ -1,7 +1,6 @@
 images/*.jpg
 images/*.jpeg
 scripts/
-data/
 contact-sheet.jpg
 preview*.png
 README.md
