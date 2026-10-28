@@ -1,0 +1,13 @@
+images/*.jpg
+images/*.jpeg
+scripts/
+data/
+contact-sheet.jpg
+preview*.png
+README.md
+legacy-html/
+published-site/
+photography-site.tar.gz
+node_modules/
+.dependency-lock/
+__pycache__/

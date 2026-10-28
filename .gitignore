@@ -1,0 +1,13 @@
+node_modules/
+.dependency-lock/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+photography-site.tar.gz
+published-site/
+images/
+contact-sheet.jpg
+preview*.png
+.npm-cache/

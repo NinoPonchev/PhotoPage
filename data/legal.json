@@ -1,0 +1,60 @@
+{
+  "impressum.html": [
+    "Impressum",
+    [
+      [
+        "Website status",
+        "This is an unfinished, editable legal placeholder. It is not a completed legal notice and has not been assessed for compliance. Complete and review it before publishing a commercial website."
+      ],
+      [
+        "Provider information",
+        "[Full legal name / business name]\n[Legal form, if applicable]\n[Street and house number]\n[Postal code, city, country]"
+      ],
+      [
+        "Contact",
+        "[Working email address]\n[Further legally required contact details]"
+      ],
+      [
+        "Business and editorial details",
+        "[Authorized representative, where applicable]\n[Register and registration number, if applicable]\n[VAT identification number, if applicable]\n[Responsible person for editorial content, if applicable]"
+      ],
+      [
+        "Before publication",
+        "Replace every placeholder with verified information and obtain appropriate review for your business and the services used. Do not publish this draft as a completed Impressum."
+      ]
+    ]
+  ],
+  "privacy.html": [
+    "Privacy Policy",
+    [
+      [
+        "Draft — not ready for publication",
+        "This editable outline is not a completed privacy policy or a claim of legal compliance. Complete it based on the actual hosting, form provider, processing activities, and applicable requirements before collecting personal data."
+      ],
+      [
+        "Controller and contact",
+        "[Controller name, postal address, and working contact email]\n[Data protection contact, if applicable]"
+      ],
+      [
+        "Hosting and access logs",
+        "[Identify the actual host, logged data, purposes, legal basis, retention, recipients, and any international transfers and safeguards.]"
+      ],
+      [
+        "Booking inquiries",
+        "The form requests your name, email, photography type, preferred package, date, location, optional message, and consent. In this unconfigured version, submitting the form does not transmit these fields. Once a submission provider is connected, this section must identify that provider, the purposes and legal basis, retention, recipients, and any transfers. An inquiry is not a confirmed booking."
+      ],
+      [
+        "Browser storage and external resources",
+        "The supplied site code does not use analytics, advertising cookies, localStorage, or external fonts. Verify this description after configuring hosting, a form provider, or additional services."
+      ],
+      [
+        "Rights and complaints",
+        "[Describe applicable access, rectification, erasure, restriction, portability, objection and consent withdrawal rights, how to exercise them, and the appropriate supervisory authority.]"
+      ],
+      [
+        "Retention and updates",
+        "[State actual retention periods or criteria, the policy date, and how changes are communicated.]"
+      ]
+    ]
+  ]
+}

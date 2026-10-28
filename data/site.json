@@ -1,0 +1,20 @@
+{
+  "photos": [
+    {"file":"n_sony-02778.jpg","category":"portrait","width":4000,"height":6000,"title":"After dark","alt":"Overhead portrait of a person in a denim jacket on grass at night"},
+    {"file":"n_sony-02916.jpg","category":"portrait","width":4000,"height":6000,"title":"A different perspective","alt":"Person holding a circular lens toward the camera against a dark background"},
+    {"file":"n_sony-06026-2.jpg","category":"portrait","width":3807,"height":5710,"title":"Light & attitude","alt":"Portrait of a woman in sunglasses illuminated by red and cyan light"},
+    {"file":"n_sony-09033.jpg","category":"portrait","width":5614,"height":3743,"title":"The finer details","alt":"Fashion detail of a person holding a metallic handbag with rings and jewelry"},
+    {"file":"n_sony-09969.jpg","category":"automotive","width":6000,"height":4000,"title":"Sculpted in light","alt":"Front wheel and sculpted white bodywork of a BMW under showroom lights"},
+    {"file":"n_sony-09971.jpg","category":"automotive","width":6000,"height":4000,"title":"Signature lines","alt":"Close-up of an illuminated red BMW rear light on white bodywork"},
+    {"file":"n_sony-09976-2.jpg","category":"automotive","width":6000,"height":4000,"title":"Presence, defined","alt":"Rear view of a white BMW with M Performance Parts in a showroom"},
+    {"file":"n_sony-09977.jpg","category":"automotive","width":5117,"height":3411,"title":"Built with character","alt":"BMW M4 Competition badge and red rear light on white bodywork"},
+    {"file":"Polish_20251129_144616754.jpg","category":"automotive","width":4096,"height":7280,"title":"Another kind of energy","alt":"Two-image collage of a white modified car with colorful accents at an auto show"},
+    {"file":"Polish_20251129_144955719.jpg","category":"automotive","width":4096,"height":7280,"title":"Monochrome machines","alt":"Black-and-white collage of two dark cars with prominent wheels and front-end details"}
+  ],
+  "packages": [
+    {"id":"automotive-essential","type":"Automotive","level":"Essential","price":99,"details":["30-minute session","5 professionally edited photographs","One location"]},
+    {"id":"automotive-premium","type":"Automotive","level":"Premium","price":199,"details":["90-minute session","15 professionally edited photographs","Up to two locations"]},
+    {"id":"portrait-essential","type":"Portrait","level":"Essential","price":89,"details":["30-minute session","5 professionally edited photographs","One location"]},
+    {"id":"portrait-premium","type":"Portrait","level":"Premium","price":179,"details":["90-minute session","15 professionally edited photographs","Up to two locations"]}
+  ]
+}
