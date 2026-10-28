@@ -20,7 +20,7 @@ export function Header({ page }) {
     return () => { breakpoint.removeEventListener('change', close); document.removeEventListener('keydown', escape); };
   }, [open]);
   return <><a className="skip-link" href="#main">Skip to content</a><header className="site-header">
-    <a className="brand" href="index.html" aria-label="Nino Ponchev Photography home"><span className="brand-mark">NP</span><span className="brand-name">NINO PONCHEV<span>PHOTOGRAPHY</span></span></a>
+    <a className="brand" href="index.html" aria-label="Evo Style Photography home"><span className="brand-mark">ES</span><span className="brand-name">EVO STYLE<span>PHOTOGRAPHY</span></span></a>
     <button ref={toggle} className="menu-toggle" type="button" aria-expanded={open} aria-controls="navigation" onClick={() => setOpen(!open)}>Menu <span aria-hidden="true">☰</span></button>
     <nav id="navigation" className={open ? 'open' : ''} aria-label="Main navigation" onClick={event => { if (event.target.closest('a')) setOpen(false); }}>
       {[['index', 'Home'], ['cars', 'Cars'], ['portraits', 'Portraits'], ['booking', 'Booking & Pricing']].map(([id, label]) => <a key={id} href={`${id}.html`} aria-current={page === id ? 'page' : undefined}>{label}</a>)}
